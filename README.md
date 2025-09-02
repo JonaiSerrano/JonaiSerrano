@@ -2,8 +2,12 @@
 
 <h2>🧑‍💻🔐 Cybersecurity Projects:</h2>
 
-- <b>SIEM | Microsoft Sentinel | Live Cyber Attacks mapping | Security Analyst:</b>
+- <B>SIEM | Microsoft Sentinel | Live Cyber Attacks mapping | Security Analyst:</B>
   - [Link to the project](https://github.com/joshmadakor1/Algorithms-Practice)
+    - *Automated metadata extraction from Windows Event Viewer using PowerShell scripting*
+    - *Integration of third-party geolocation APIs for IP-based location resolution*
+    - *Configuration of Azure Log Analytics Workspace to enable geographic data visualization*
+    - *Security event analysis and threat detection leveraging Azure Sentinel (Microsoft’s cloud-native SIEM)*
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
