@@ -1,9 +1,9 @@
 <h1>Hi, I'm Jonai! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a/h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🧑‍💻🔐 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>SIEM | Microsoft Sentinel | Live Cyber Attacks mapping | Security Analyst:</b>
+  - [Link to the project](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
