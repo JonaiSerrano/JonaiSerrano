@@ -4,27 +4,52 @@
 
 [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
 [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme)
-<h2>🧑‍💻🔐 Cybersecurity Projects:</h2>
+## 🧑‍💻🔐 Featured Cybersecurity Projects
 
-- <B>SIEM | Microsoft Sentinel | Live Cyber Attacks mapping | Security Analyst:</B>
-  - [Link to the project](https://github.com/joshmadakor1/Algorithms-Practice)
-    - *Automated metadata extraction from Windows Event Viewer using PowerShell scripting*
-    - *Integration of third-party geolocation APIs for IP-based location resolution*
-    - *Configuration of Azure Log Analytics Workspace to enable geographic data visualization*
-    - *Security event analysis and threat detection leveraging Azure Sentinel (Microsoft’s cloud-native SIEM)*
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+### **📊 SIEM | Microsoft Sentinel | Live Cyber Attacks Mapping | Security Analyst**
+- [View Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- **Project Highlights:**
+  - *Automated metadata extraction from Windows Event Viewer using PowerShell scripting*
+  - *Integration of third-party geolocation APIs for IP-based location resolution*
+  - *Configuration of Azure Log Analytics Workspace to enable geographic data visualization*
+  - *Security event analysis and threat detection leveraging Azure Sentinel (Microsoft’s cloud-native SIEM)*
+   
+---
+      
+### **🔐 Windows Server Exploitation | MS17-010 | EternalBlue | Ethical Hacking**
+- [View Project](https://github.com/swopnilshakya7/MS17-010-Eternal-Blue-Semi--Manual-Exploitation)
+- **Project Highlights:**
+  - Exploitation of SMBv1 vulnerability on Windows Server 2008
+  - Use of AutoBlue tool for semi-manual attack execution
+  - Network reconnaissance with `nmap`, and remote access via `netcat`
+
+---
+
+### **🌐 Website Hacking | Metasploitable | XSS & SQL Injection | Home Lab**
+- [View Project](https://github.com/swopnilshakya7/Web-Application-Hacking-XSS-SQL-Injection-Metasploitable-Home-Lab/tree/main)
+- **Project Highlights:**
+  - Deployment of Metasploitable server for web app vulnerability testing
+  - Execution of JavaScript and SQL payloads for XSS and SQLi
+  - Identification of attack vectors and mitigation strategies
+
+---
+
+### **🖥️ Windows System Takeover | Metasploit Framework | Reverse Shells**
+- [View Project](https://github.com/swopnilshakya7/Taking-Control-Over-Windows-Machine-Metasploit-Ethical-Hacking/tree/main)
+- **Project Highlights:**
+  - Reverse shell engineering and remote access via Meterpreter
+  - System manipulation: webcam spying, keystroke logging, screen sharing
+  - Resource exfiltration and payload delivery using Metasploit tools
+
+---
+
+### **📊 SIEM Integration | Microsoft Sentinel | Live Cyber Attack Mapping**
+- [View Project](https://github.com/swopnilshakya7/Azure-Sentinel-SIEM-Mapping-Live-CyberAttacks)
+- **Project Highlights:**
+  - PowerShell automation for metadata extraction from Event Viewer
+  - Geolocation via third-party APIs for IP mapping
+  - Configuration of Log Analytics Workspace for geo-visualization
+  - Security event analysis using Azure Sentinel (Microsoft’s cloud-native SIEM)
 
 <h2>📺 Popular YouTube Videos</h2>
 
