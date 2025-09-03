@@ -1,3 +1,5 @@
+[![Header](./banner.png)](https://eoimages.gsfc.nasa.gov/images/imagerecords/55000/55167/nightearth.gif)
+
 <h1>Hi, I'm Jonai! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a/h1>
 
 <h2>🧑‍💻🔐 Cybersecurity Projects:</h2>
