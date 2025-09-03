@@ -3,7 +3,7 @@
 <h1>Hi, I'm Jonai! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a/h1>
 
 [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
-[![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme)
+[![HitCount](https://views.whatilearened.today)](https://github.com/coderjojo/creative-profile-readme)
 ## 🧑‍💻🔐 Featured Cybersecurity Projects
 
 ### **📊 SIEM | Microsoft Sentinel | Live Cyber Attacks Mapping | Security Analyst**
