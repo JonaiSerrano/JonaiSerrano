@@ -1,6 +1,6 @@
 [![Header](ATWDP.png)](https://eoimages.gsfc.nasa.gov/images/imagerecords/55000/55167/nightearth.gif)
 
-<h1>Hi, I'm Jonai! <br/><a href="https://github.com/joshmadakor1">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a/h1> <a href="https://www.linkedin.com/in/joshmadakor/">SOC Analyst</a>
+<h1>Hi, I'm Jonai! <br/><a href="https://www.linkedin.com/in/jonai-serrano-350480174/">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/jonai-serrano-350480174/">Cybersecurity Professional</a>, <a/h1> <a href="https://www.linkedin.com/in/jonai-serrano-350480174/">SOC Analyst</a>
 
 [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
 [![HitCount](https://views.whatilearened.today)](https://github.com/coderjojo/creative-profile-readme)
