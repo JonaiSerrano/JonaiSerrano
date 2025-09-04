@@ -6,11 +6,11 @@
 [![HitCount](https://views.whatilearened.today)](https://github.com/coderjojo/creative-profile-readme)
 ## 🧑‍💻🔐 Featured Cybersecurity Projects
 
-### **📊 SIEM | Microsoft Sentinel | Live Cyber Attacks Mapping | Security Analyst**
+### **📊 SIEM | Microsoft Sentinel | Live Cyber Attacks Mapping | Security Operations Architect**
 - [View Project](https://github.com/JonaiSerrano/Designing_Azure_Sentinel_SIEM-Live-Attack-Map-Monitoring-)
 - **Project Highlights:**
-  - *Automated metadata extraction from Windows Event Viewer using PowerShell scripting*
-  - *Integration of third-party geolocation APIs for IP-based location resolution*
+  - *Used various Azure tools to extract metadata from Logs, focusing on failed login attempts (Event ID 4625)*
+  - *Integrated IP geolocation APIs to resolve attacker locations and enrich log data with geographic context*
   - *Configuration of Azure Log Analytics Workspace to enable geographic data visualization*
   - *Security event analysis and threat detection leveraging Azure Sentinel (Microsoft’s cloud-native SIEM)*
    
