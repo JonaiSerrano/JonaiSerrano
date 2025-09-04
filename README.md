@@ -7,7 +7,7 @@
 ## 🧑‍💻🔐 Featured Cybersecurity Projects
 
 ### **📊 SIEM | Microsoft Sentinel | Live Cyber Attacks Mapping | Security Analyst**
-- [View Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [View Project](https://github.com/JonaiSerrano/Designing_Azure_Sentinel_SIEM-Live-Attack-Map-Monitoring-)
 - **Project Highlights:**
   - *Automated metadata extraction from Windows Event Viewer using PowerShell scripting*
   - *Integration of third-party geolocation APIs for IP-based location resolution*
@@ -17,7 +17,7 @@
 ---
       
 ### **🔐 Windows Server Exploitation | MS17-010 | EternalBlue | Ethical Hacking**
-- [View Project](https://github.com/swopnilshakya7/MS17-010-Eternal-Blue-Semi--Manual-Exploitation)
+- [View Project](https://tmkamal.github.io/under-construction-template/)
 - **Project Highlights:**
   - Exploitation of SMBv1 vulnerability on Windows Server 2008
   - Use of AutoBlue tool for semi-manual attack execution
@@ -26,7 +26,7 @@
 ---
 
 ### **🌐 Website Hacking | Metasploitable | XSS & SQL Injection | Home Lab**
-- [View Project](https://github.com/swopnilshakya7/Web-Application-Hacking-XSS-SQL-Injection-Metasploitable-Home-Lab/tree/main)
+- [View Project](https://tmkamal.github.io/under-construction-template/)
 - **Project Highlights:**
   - Deployment of Metasploitable server for web app vulnerability testing
   - Execution of JavaScript and SQL payloads for XSS and SQLi
@@ -35,7 +35,7 @@
 ---
 
 ### **🖥️ Windows System Takeover | Metasploit Framework | Reverse Shells**
-- [View Project](https://github.com/swopnilshakya7/Taking-Control-Over-Windows-Machine-Metasploit-Ethical-Hacking/tree/main)
+- [View Project](https://tmkamal.github.io/under-construction-template/)
 - **Project Highlights:**
   - Reverse shell engineering and remote access via Meterpreter
   - System manipulation: webcam spying, keystroke logging, screen sharing
@@ -43,28 +43,13 @@
 
 ---
 
-### **📊 SIEM Integration | Microsoft Sentinel | Live Cyber Attack Mapping**
-- [View Project](https://github.com/swopnilshakya7/Azure-Sentinel-SIEM-Mapping-Live-CyberAttacks)
-- **Project Highlights:**
-  - PowerShell automation for metadata extraction from Event Viewer
-  - Geolocation via third-party APIs for IP mapping
-  - Configuration of Log Analytics Workspace for geo-visualization
-  - Security event analysis using Azure Sentinel (Microsoft’s cloud-native SIEM)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.13.0/icons/x.svg" />][X]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JonaiSerrano | YouTube" width="22px" src="https://tmkamal.github.io/under-construction-template/" />][youtube]
+[<img align="left" alt="JonaiSerrano | Twitter" width="22px" src="https://tmkamal.github.io/under-construction-template/" />][X]
+[<img align="left" alt="JonaiSerrano | LinkedIn" width="22px" src="https://tmkamal.github.io/under-construction-template/" />][linkedin]
+[<img align="left" alt="JonaiSerrano | Instagram" width="22px" src="https://tmkamal.github.io/under-construction-template/" />][instagram]
 
 [X]: https://x.com/Prometheus_CIA
 [youtube]: https://www.youtube.com/@Jonaithesecurityguy
