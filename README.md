@@ -2,8 +2,8 @@
 
 <h1>Hi, I'm Jonai! <br/><a href="https://www.linkedin.com/in/jonai-serrano-350480174/">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/jonai-serrano-350480174/">Cybersecurity Professional</a>, <a/h1> <a href="https://www.linkedin.com/in/jonai-serrano-350480174/">SOC Analyst</a>
 
-[![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
-[![HitCount](https://views.whatilearened.today)](https://github.com/coderjojo/creative-profile-readme)
+[![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://jonaiserrano.github.io/)
+![ViewCount](https://views.whatilearened.today/views/github/<JonaiSerrano>/<JonaiSerrano>.svg)
 ## 🧑‍💻🔐 Featured Cybersecurity Projects
 
 ### **📊 SIEM | Microsoft Sentinel | Live Cyber Attacks Mapping | Security Operations Architect**
