@@ -15,7 +15,17 @@
   - *Security event analysis and threat detection leveraging Azure Sentinel (Microsoft’s cloud-native SIEM)*
    
 ---
-      
+
+### **🖥️ Active Directory-Based Enterprise Network Deployment Using Virtual Machines | Systems Administration**
+  - [View Project](https://tmkamal.github.io/under-construction-template/)
+  - Project inclusions:
+    - *Active Directory Setup and Management*
+    - *Remote Access Server Configuration with NAT/PAT*
+    - *DNS and DHCP Setup*
+    - *Windows File Server Configuration*
+
+---
+
 ### **🔐 Windows Server Exploitation | MS17-010 | EternalBlue | Ethical Hacking**
 - [View Project](https://tmkamal.github.io/under-construction-template/)
 - **Project Highlights:**
