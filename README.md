@@ -23,7 +23,7 @@
     - *Remote Access Server Configuration with NAT/PAT*
     - *DNS and DHCP Setup*
     - *Windows File Server Configuration*
-
+<!--
 ---
 
 ### **🔐 Windows Server Exploitation | MS17-010 | EternalBlue | Ethical Hacking**
@@ -52,16 +52,14 @@
   - Resource exfiltration and payload delivery using Metasploit tools
 
 ---
-
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[X]: https://x.com/Prometheus_CIA
 [youtube]: https://www.youtube.com/@Jonaithesecurityguy
 [instagram]: https://www.instagram.com/jonai_the_security_guy/
 [linkedin]: https://www.linkedin.com/in/jonai-serrano-350480174/
