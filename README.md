@@ -58,8 +58,8 @@
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [youtube]: https://www.youtube.com/@Jonaithesecurityguy
-[instagram]: https://www.instagram.com/jonai_the_security_guy/
+[facebook]: https://www.facebook.com/jonai.serrano.3
 [linkedin]: https://www.linkedin.com/in/jonai-serrano-350480174/
