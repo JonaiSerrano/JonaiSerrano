@@ -18,7 +18,7 @@
 
 ### **🖥️ Active Directory-Based Enterprise Network Deployment Using Virtual Machines | Systems Administration**
   - [View Project](https://github.com/JonaiSerrano/Active-Directory-Based-Enterprise-Network-Deployment-Using-Virtual-Machines-Systems-Administration.git)
-  - Project inclusions:
+  - **Project Highlights:**
     - *Active Directory Setup and Management*
     - *Remote Access Server Configuration with NAT/PAT*
     - *DNS and DHCP Setup*
