@@ -23,6 +23,15 @@
     - *Remote Access Server Configuration with NAT/PAT*
     - *DNS and DHCP Setup*
     - *Windows File Server Configuration*
+
+## 📜 Certifications
+  - **Comptia A+**
+  - **ND|E EC-Council**
+  - **Google IT Support**
+  - **FEMA National Incident Management System (NIMS): ICS-100**
+  - **CompTIA Network+ (Expected 11/25)**
+  - **CompTIA Security+ (Expected 12/25)**
+
 <!--
 ---
 
