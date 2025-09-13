@@ -6,7 +6,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/<JonaiSerrano>/<JonaiSerrano>.svg)
 ## 🧑‍💻🔐 Featured Cybersecurity Projects
 
-### **📊 SIEM | Microsoft Sentinel | Live Cyber Attacks Mapping | Security Operations Architect**
+### **📊 Designing & Creating a SIEM | Microsoft Sentinel | Live Cyber Attacks Mapping | Security Operations Architect**
 - [View Project](https://github.com/JonaiSerrano/Designing_Azure_Sentinel_SIEM-Live-Attack-Map-Monitoring-)
 - **Project Highlights:**
   - *Used various Azure tools to extract metadata from Logs, focusing on failed login attempts (Event ID 4625)*
